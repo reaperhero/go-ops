@@ -1,0 +1,3 @@
+[sshw]
+addr = ":2222"
+user = "root"
